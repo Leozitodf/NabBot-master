@@ -17,7 +17,7 @@ log_channel_name = "server-log"
 
 # main_server is the ID of the server NabBot is originally made for, meaning there may be
 # some exclusive features and/or commands on this server only.
-main_server = "159815897052086272"
+main_server = "396722150226133003"
 
 # The welcome message that is sent to members when they join a discord server with NabBot in it
 # 0 is the member object, examples:
@@ -33,8 +33,8 @@ welcome_pm = "Welcome to **{0.server.name}**! I'm **{1.user.name}**, to learn mo
 
 # Owners can use mods commands and more sensible commands like /shutdown and restart
 # Mods can register chars and users and use makesay
-owner_ids = ["162060569803751424", "162070610556616705"]
-mod_ids = ["159815675194507265", "164253469912334350"]
+owner_ids = ["162722304080609280", "162722304080609280"]
+mod_ids = ["162722304080609280", "162722304080609280"]
 # Enable of disable specific timezones for /time
 display_brasilia_time = True
 display_sonora_time = True
