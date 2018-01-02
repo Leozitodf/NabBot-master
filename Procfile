@@ -1,0 +1,1 @@
+worker: nabbot.py
